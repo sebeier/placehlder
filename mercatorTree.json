@@ -26255,6 +26255,17 @@
 	]
 }
 ,{
+"code":"35", "name":"not assigned", "leaves":"2"
+,"children": [
+	{
+	"code":"35.1", "name":"annotated"
+	}
+	,{
+	"code":"35.2", "name":"not annotated"
+	}
+	]
+}
+,{
 "code":"50", "name":"Enzyme classification", "leaves":"50"
 ,"children": [
 	{
